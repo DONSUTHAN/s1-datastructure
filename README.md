@@ -1,4 +1,4 @@
-echo "# trail-run" >> README.md
+echo "#s1-datastructure" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
